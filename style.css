@@ -52,13 +52,14 @@ body {
      display: none;
      cursor: pointer;
    }
-   
+
+
 #perfect {
      position: absolute;
      opacity: 0;
      transition: opacity 2s;
 }
-
+/* for the restart button when the user loses */
 #restart:hover {
     width: 90px;
     height: 90px;
